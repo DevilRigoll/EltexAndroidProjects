@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elements_in_row">5dp</dimen>
+    <dimen name="margin_text_view_bottom">10dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="text_view_text_size">40sp</dimen>
+</resources>
